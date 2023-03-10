@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width: 100%" />
-</div>  
-  
 
 ### <div align="center">Hi, I'm Kahyberth and I'm currently a Systems Engineering student.</div>  
   
